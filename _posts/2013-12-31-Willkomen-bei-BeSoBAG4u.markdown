@@ -8,6 +8,7 @@ categories: update
 Das ist der erste Blog Eintrag für BeSoBAG4u.
 
 Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. 
+Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. Das ist noch etwas Text. 
 
 
 [ufa]:    http://www.ufa.ch
