@@ -21,4 +21,4 @@ Farbe: Rosa in Grösse M
 <img src="/images/8.JPG" />
 <img src="/images/9.JPG" />
 Farbe: Blau in Grösse L hoch
-Besondere Taschen.
+
