@@ -4,7 +4,7 @@ title:  "Tanzschuhtaschen"
 date:   2014-01-19 16:00:11
 ---
 
-Neu haben wir neben *Felltaschen* auch Tanzschuhtaschen.
+Neu haben wir auch Tanzschuhtaschen.
 
 ***
 
