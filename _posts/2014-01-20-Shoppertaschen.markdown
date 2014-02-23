@@ -17,7 +17,7 @@ Markdown is a lightweight markup language based on the formatting conventions th
 > Shoppertaschen sind
 > cool und sehr praktisch
 
-Untertitel Frontansicht
+## Untertitel Frontansicht
 ----
 
 <img src="/images/birne.jpg" class="right" width=100 />
