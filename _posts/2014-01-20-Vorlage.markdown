@@ -1,16 +1,16 @@
----
+﻿---
 layout: post
 title:  "Titel"
 date:   2014-01-20 16:00:11
 published: false
 ---
----
-layout: post
-title:  "Shoppertaschen"
-date:   2014-01-20 16:00:11
----
 
-# Shoppertaschen
+
+published: false Zeile entfernen
+
+"Titel" in anführungszeichen
+
+
 Ab sofort gibt es tolle Shoppertaschen in verschiedenen Grössen und Farben.
 
 ## Material
@@ -34,6 +34,17 @@ Untertitel
 ----
 
 Blogpost
+
+
+## Untertitel Frontansicht
+
+<img src="/images/birne.jpg" class="right" width="100" />
+
+<img src="/images/birne.jpg" class="left"  width="100" />
+
+<img src="/images/birne.jpg" class="center" width="100" />
+
+![birne](/images/birne.jpg)
 
 
 
