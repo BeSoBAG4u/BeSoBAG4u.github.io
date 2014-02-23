@@ -11,5 +11,5 @@ date:   2014-01-20 16:00:11
 > Selten  und Speziell
 
 
-<img src="/images/2013.jpg"/>
+<img src="/images/2013.JPG"/>
 
