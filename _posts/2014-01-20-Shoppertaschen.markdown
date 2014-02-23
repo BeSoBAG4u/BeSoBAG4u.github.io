@@ -4,8 +4,6 @@ title:  "Shoppertaschen"
 date:   2014-01-20 16:00:11
 ---
 
-Shoppertaschen
-=========
 Ab sofort gibt es tolle Shoppertaschen in verschiedenen Grössen und Farben.
 
 Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel 
@@ -17,16 +15,24 @@ Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  [Beat] findet:
 
 > Shoppertaschen sind
-
 > cool und sehr praktisch
 
-This text you see here is *kursiv* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.  
-
-
-Untertitel
+Untertitel Frontansicht
 ----
 
-Blogpost
+### rechts
+<img src="/images/birne.jpg" class="right" />
+
+### links
+<img src="/images/birne.jpg" class="left" />
+
+### middle
+<img src="/images/birne.jpg" class="middle" />
+
+### center
+<img src="/images/birne.jpg" class="center" />
+
+
 
 
 
