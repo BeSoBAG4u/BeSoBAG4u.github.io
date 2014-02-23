@@ -1,6 +1,6 @@
 ---
 layout: default
-title: galerie
+title: Galerie
 ---
 
 ##Turnfest-Edition
