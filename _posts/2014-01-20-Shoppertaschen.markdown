@@ -14,9 +14,11 @@ Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel
 
 ## Untertitel Frontansicht
 
-![birne]({{ site.url }}/images/birne.jpg)
+![birne](/images/birne.jpg)
 
-<img src="/images/birne.jpg" class="right" />
+asdfasdfioauio sdkjflksf isdifusjks kjsdfjksdfio.
+
+<img src="/images/birne.jpg" class="right" width=100 />
 
 <img src="/images/birne.jpg" class="left"  />
 
