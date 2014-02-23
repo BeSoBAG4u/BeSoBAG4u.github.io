@@ -20,20 +20,11 @@ Markdown is a lightweight markup language based on the formatting conventions th
 Untertitel Frontansicht
 ----
 
-### rechts
-<img src="/images/birne.jpg" class="right" />
+<img src="/images/birne.jpg" class="right" width=100 />
 
-### links
-<img src="/images/birne.jpg" class="left" />
+<img src="/images/birne.jpg" class="left" width=150 />
 
-### middle
-<img src="/images/birne.jpg" class="middle" />
-
-### center
-<img src="/images/birne.jpg" class="center" />
-
-
-
+<img src="/images/birne.jpg" class="center" width=200 />
 
 
 [Beat]:http://www.besobag4u.ch
