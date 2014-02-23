@@ -18,7 +18,6 @@ Markdown is a lightweight markup language based on the formatting conventions th
 > cool und sehr praktisch
 
 ## Untertitel Frontansicht
-----
 
 <img src="/images/birne.jpg" class="right" width=100 />
 
