@@ -9,7 +9,6 @@ Das ist der erste Blog-Post für BeSoBAG4u.
   - persönlich
   - Tasche auf Mass, nach ihrem Design
   - schnell und direkte Lieferung
-  - auch Felltaschen möglich 
 
 En *schöne* **Tag!**
 [En Guete](http://vimeo.com/83514724)

@@ -6,7 +6,6 @@ date:   2014-01-19 16:00:11
 
 Neu haben wir auch Tanzschuhtaschen.
 
-***
 
 Die Schuhe verlüften von selber im luftdurchlässigen Material der Tasche.
 
