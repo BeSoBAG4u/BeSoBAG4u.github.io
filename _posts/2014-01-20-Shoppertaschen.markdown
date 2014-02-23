@@ -12,11 +12,6 @@ Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel
   - Zeile 2
   - Super
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  [Beat] findet:
-
-> Shoppertaschen sind
-> cool und sehr praktisch
-
 ## Untertitel Frontansicht
 
 <img src="/images/birne.jpg" class="right" width=100 />
