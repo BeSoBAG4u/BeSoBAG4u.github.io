@@ -14,6 +14,11 @@ Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel
 
 ## Untertitel Frontansicht
 
+<img src="/images/birne.jpg" class="right" />
+
+<img src="/images/birne.jpg" class="left"  />
+
+<img src="/images/birne.jpg" class="center" />
 
 
 [Beat]:http://www.besobag4u.ch
