@@ -3,7 +3,7 @@ layout: default
 title: galerie
 ---
 
-##Turnfest-Edition
+#Turnfest-Edition
 <img src="/images/1.JPG" />
 <img src="/images/2.JPG" />
 Farbe: Weiss in Grösse L und XL
