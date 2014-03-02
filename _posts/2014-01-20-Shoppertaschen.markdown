@@ -11,11 +11,4 @@ Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel
   - Recyclingprodukt 
   - superstabil
   - Blickfang
-
-## Turnfest 2013 Taschen 
-
-<img src="/images/birne.jpg" class="right" width="100" />
-
-<img src="/images/birne.jpg" class="left"  width="100" />
-
-<img src="/images/birne.jpg" class="center" width="100" />
+ 
