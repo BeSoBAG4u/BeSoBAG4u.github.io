@@ -12,4 +12,4 @@ Aus originalen Mesh-Blachen vom Eidgenössischen Turnfest 2013 in Biel
   - superstabil
   - Blickfang
  
-<img src="/images/shoppers.JPG"/>
+<img src="/images/shoppers.jpg"/>
