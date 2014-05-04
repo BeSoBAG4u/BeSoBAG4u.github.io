@@ -2,6 +2,7 @@
 layout: post
 title:  "BeSoBAG4u"
 date:   2014-01-19 08:00:11
+published: false
 ---
 
 Das ist der erste Blog-Post für BeSoBAG4u.
