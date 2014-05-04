@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<simpleviewerGallery maxImageWidth="700" maxImageHeight="700" textColor="0xe44805" frameColor="0x35d09e" frameWidth="20" stagePadding="50" thumbnailColumns="8" thumbnailRows="3" navPosition="bottom" title="Taschen Klein" enableRightClickOpen="false" backgroundImagePath="ext/porta_sv.swf" imagePath="medium/" thumbPath="small/">
+<simpleviewerGallery maxImageWidth="700" maxImageHeight="700" textColor="0xe32206" frameColor="0x49bcb0" frameWidth="11" stagePadding="35" thumbnailColumns="8" thumbnailRows="8" navPosition="bottom" title="kleinetaschen" enableRightClickOpen="false" backgroundImagePath="ext/porta_sv.swf" imagePath="medium/" thumbPath="small/">
   <image>
     <name>0001.jpg</name>
     <caption><![CDATA[<a target="_blank" href="large/0001.jpg"><u>Zoom</u></a>]]></caption>
@@ -19,9 +19,5 @@
   <image>
     <name>0005.jpg</name>
     <caption><![CDATA[<a target="_blank" href="large/0005.jpg"><u>Zoom</u></a>]]></caption>
-  </image>
-  <image>
-    <name>0006.jpg</name>
-    <caption><![CDATA[<a target="_blank" href="large/0006.jpg"><u>Zoom</u></a>]]></caption>
   </image>
 </simpleviewerGallery>
