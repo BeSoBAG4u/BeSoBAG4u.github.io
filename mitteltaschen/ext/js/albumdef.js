@@ -1,6 +1,6 @@
 var title         = 'Medium Taschen';
 var intro         = '';
-var footer        = '© 2014 - Powered by Porta/ BeSoBAG4u';
+var footer        = '© 2014 - Powered by Porta BeSoBAG4u';
 var nbImages      = 7;
 var smallDir      = 'small';
 var mediumDir     = 'medium';
