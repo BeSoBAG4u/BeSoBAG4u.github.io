@@ -3,11 +3,13 @@ layout: default
 title: About
 ---
 
-Beat und die Maschine.
-<img src="/images/beat.png" class="right" />
+<img src="/images/selfie.jpg"/>
 
-Besondere Taschen.
+Wir, Sonja und Beat, haben unsere Leidenschaft fürs Nähen entdeckt.
 
-Sonja und *die Maschine*.
-<img src="/images/Sonja.png" class="right" />
+
+
+
+
+
 
