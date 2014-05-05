@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-##Recycling-Blachentaschen in verschiedenen Grössen
-Tolle Shopper-Taschen, für deinen grossen oder kleineren Einkauf. Sie sind sehr robust, aussen und innen abwaschbar. 
-Die Taschen sind aus gebrauchten Mesh-Werbeblachen hergestellt und deshalb ein Recyclingprodukt. Durch die löchrige Struktur sind sie luftdurchlässig und somit gut geeignet für Sport- und Badesachen, 
+##Recycling-Blachentaschen in verschiedenen GrÃ¶ssen
+Tolle Shopper-Taschen, fÃ¼r deinen grossen oder kleineren Einkauf. Sie sind sehr robust, aussen und innen abwaschbar. 
+Die Taschen sind aus gebrauchten Mesh-Werbeblachen hergestellt und deshalb ein Recyclingprodukt. Durch die lÃ¶chrige Struktur sind sie luftdurchlÃ¤ssig und somit gut geeignet fÃ¼r Sport- und Badesachen, 
 
 
 
