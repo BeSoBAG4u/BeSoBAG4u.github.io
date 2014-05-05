@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tascheninfos"
+title: About
 ---
 
 ##Recycling-Blachentaschen in verschiedenen Grössen
