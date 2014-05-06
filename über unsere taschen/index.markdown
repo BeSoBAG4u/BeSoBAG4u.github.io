@@ -10,8 +10,12 @@ luftdurchlässig und somit gut geeignet für Sport- und Badesachen. Ausserdem si
 
 
 
+
+
 ##Kleine Taschen, Grösse ca.  20x20x9 oder 18x17x8 oder 24x17x8
 Wenn du mal nur Kleinigkeiten mitzunehmen hast, aber  trotzdem eine kleine Tasche brauchst, ist die kleine Tasche genau das Richtige für dich!
+
+
 
 
 
@@ -20,8 +24,12 @@ Genau die richtige Tasche für dich, um dein Znüni und/oder dein Zmittag mitzun
 
 
 
+
+
 ##Grosse Taschen, Grösse ca. 34x35x17
 Diese Tasche kannst du z. B. gut zum Einkaufen benutzen, sie passt in einige Fahrradkörbe, ist also auch praktisch, wenn du mit dem Fahrrad unterwegs bist. Du kannst auch deine Tanzschuhe darin transportieren.
+
+
 
 
 
@@ -30,8 +38,12 @@ Die XL-Tasche ist prima geeignet für deine Bade- und Sportsachen. Du kannst sie
 
 
 
+
+
 #Kulturtaschen 
 Praktisch für deine Reise, mit Innenfach z. B. für deine Zahnbürste, aussen und innen abwaschbar, in verschiedene Designs erhältlich, auch als Windeltasche verwendbar.
+
+
 
 
 #Kosmetiktäschchen/Krimskramstäschchen
@@ -39,8 +51,13 @@ Prima, um deine Schminkutensilien zu verstauen (oder kleines Zeug, das du sonst 
 Du kannst die Täschchen übrigens auch als Stiftemäppchen gebrauchen. 
 
 
+
+
+
 #Schlüsselmäppchen
 Zum Versorgen deiner Schlüssel, auch als Mini-Geldbörse nutzbar, aussen und innen abwaschbar, in verschiedenen Designs erhältlich.
+
+
 
 
 #Sets
@@ -48,7 +65,10 @@ Es gibt die drei Taschen übrigens auch für dich im Set, wenn du alle im gleich
 
 
 
-Wir machen dir hier nur Vorschläge, was du mit unseren tollen Taschen machen kannst, damit du dir ein Bild machen kannst. Deiner Phantasie sind natürlich keine Grenzen gesetzt 
+
+
+
+Wir machen dir hier nur Vorschläge, was du mit unseren tollen Taschen machen kannst, damit du dir ein Bild machen kannst. Deiner Phantasie sind natürlich keine Grenzen gesetzt. :-)
 
 
 Unsere Taschen kannst du alle kaufen, schreib uns einfach eine E-Mail an besobag4u@gmail.com, wenn du eine (oder auch mehrere ;-)) haben möchtest. 
