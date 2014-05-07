@@ -39,13 +39,13 @@ Die XL-Tasche ist prima geeignet für deine Bade- und Sportsachen. Du kannst sie
 
 
 
-#Kulturtaschen 
+#<u>Kulturtaschen</u>
 Praktisch für deine Reise, mit Innenfach z. B. für deine Zahnbürste, aussen und innen abwaschbar, in verschiedene Designs erhältlich, auch als Windeltasche verwendbar.
 
 
 
 
-#Kosmetiktäschchen/Krimskramstäschchen
+#<u>Kosmetiktäschchen/Krimskramstäschchen</u>
 Prima, um deine Schminkutensilien zu verstauen (oder kleines Zeug, das du sonst immer suchst, wenn du es lose in deiner Tasche hast ;-)), passt in deine Handtasche, aussen und innen abwaschbar, in verschiedenen Designs erhältlich.
 Du kannst die Täschchen übrigens auch als Stiftemäppchen gebrauchen.
 
@@ -53,13 +53,13 @@ Du kannst die Täschchen übrigens auch als Stiftemäppchen gebrauchen.
 
 
 
-#Schlüsselmäppchen
+#<u>Schlüsselmäppchen</u>
 Zum Versorgen deiner Schlüssel, auch als Mini-Geldbörse nutzbar, aussen und innen abwaschbar, in verschiedenen Designs erhältlich.
 
 
 
 
-#Sets
+#<u>Sets</u>
 Es gibt die drei Taschen übrigens auch für dich im Set, wenn du alle im gleichen Design haben möchtest. 
 
 
