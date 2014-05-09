@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Unsere T-Shirts"
-date:   2014-01-20 16:00:11
-published: false
+date:   2014-01-24 16:00:11
+
 ---
 
 
 
 
-<img src="/images/shirt.jpg" class="right" width="275" />
+<img src="/images/shirt.jpg"  width="400" />
 
 
-
-Vom unserem Textil-Desinger aus der Region.
+Haben wir in der Region bedrucken lassen.
 Danke nochmal Lukas  
-<a href="http://www.cutworks.ch" target="_blank">
+[Cutworks-Webseite](http://cutworks.ch/)
+
