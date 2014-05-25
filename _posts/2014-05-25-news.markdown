@@ -7,7 +7,7 @@ date:   2014-05-25 16:00:11
 ##<u>Dieses Wochenende neu entstanden</u>
 
 
-<p>##<u> Kleine Kosmetiktäschli</u><p>
+##<u> <p>Kleine Kosmetiktäschli<p></u>
 
 <p><img src="/images/10.jpg" class="right" width="300" />      <p> <p>
 <img src="/images/11.jpg" class="left"  width="300" /><p>
@@ -15,7 +15,7 @@ date:   2014-05-25 16:00:11
 <p>Grösse ca.20cm x 14cm x 5cm innen und aussen abwaschbar
 18.- CHF<p>
 
-<p>##<u> Kleine Taschen</u><p>
+##<u> <p>Kleine Taschen<p></u>
 
 
 <img src="/images/12.jpg" class="right" width="250" />
