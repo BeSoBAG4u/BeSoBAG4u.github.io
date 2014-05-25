@@ -4,13 +4,13 @@ title:  "News"
 date:   2014-05-25 16:00:11
 
 ---
- #<u>Dieses Wochenende neu entstanden</u>
+##<u>Dieses Wochenende neu entstanden</u>
 
 
 ##<u> Kleine Kosmetiktäschli</u>
 
-<img src="/images/10.jpg" class="right" width="190" />
-<img src="/images/11.jpg" class="left"  width="190" />
+<img src="/images/10.jpg" class="right" width="250" />
+<img src="/images/11.jpg" class="left"  width="250" />
 
 Grösse ca.20cm x 14cm x 5cm innen und aussen abwaschbar
 18.- CHF
@@ -18,13 +18,13 @@ Grösse ca.20cm x 14cm x 5cm innen und aussen abwaschbar
 ##<u> Kleine Taschen</u>
 
 
-<img src="/images/12.jpg" class="right" width="190" />
+<img src="/images/12.jpg" class="right" width="250" />
 
-<img src="/images/13.jpg" class="left"  width="190" />
+<img src="/images/13.jpg" class="left"  width="250" />
  
 Grösse ca. 18cm x 17cm x 8cm und 24cm x 17cm x 8cm
 16.- CHF 
 
-Bestellungen mit Nummerangabe bitte an: BeSoBAG4u@gmail.com
+Wenn dir eine Tasche gefällt, kannst du sie mit Nummerangabe bestellen unter: BeSoBAG4u@gmail.com
 
     
