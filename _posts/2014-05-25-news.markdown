@@ -10,7 +10,7 @@ date:   2014-05-25 16:00:11
 ##<u> Kleine Kosmetiktäschli</u>
 
 <img src="/images/10.jpg" class="right" width="310" /> 
-<img src="/images/11.jpg" class="left"  width="310" />
+<img src="/images/11.jpg"   width="380" />
 
 Grösse ca.20cm x 14cm x 5cm innen und aussen abwaschbar
 18.- CHF<br> 
