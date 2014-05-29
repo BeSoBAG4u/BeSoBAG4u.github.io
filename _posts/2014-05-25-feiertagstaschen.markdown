@@ -9,8 +9,8 @@ date:   2014-05-29 16:00:11
 
 ##<u>Kleine Taschen aus Mesh - Blache</u>
 
-<img src="/images/12.jpg" class="right" width="390" /> 
-<img src="/images/13.jpg" class="left"  width="390" />
+<img src="/images/12.jpg" class="right" width="310" /> 
+<img src="/images/13.jpg" class="left"  width="310" />
 
 Grösse 
 Nummer 12 : ca. 24x17x8 cm 
