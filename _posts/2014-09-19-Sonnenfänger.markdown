@@ -20,6 +20,5 @@ Interesse geweckt??
 
 <img src="/images/sonne3.jpg" />
 
-<img src="/images/neu4.jpg" />
 
     
