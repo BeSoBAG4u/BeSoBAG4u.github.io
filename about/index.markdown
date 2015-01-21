@@ -9,6 +9,8 @@ title: About
 
 Wir, Sonja und Beat, haben unsere Leidenschaft fürs Nähen von Taschen entdeckt.
 
+Kontakt: Besobag4u@gmail.com
+
 
 
 
