@@ -10,7 +10,7 @@ date:   2015-01-21 16:00:11
 
 Besucht uns am 28.Februar 2015 in der MZH Emmenschachen in Lützelflüh von  11.00 - 15.30 Uhr
 
-<img src="/images/Lützelflüh1.jpg" 
+<img src="/images/Lützelflüh1.jpg"/>
 
 
 >##Koffermarkt in Derendingen
