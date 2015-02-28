@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<u>Koffermarkt Lützelflüh/u>"
+title:  "<u>Koffermarkt Lützelflüh</u>"
 date:   2015-02-28  16:00:11
 
 ---
