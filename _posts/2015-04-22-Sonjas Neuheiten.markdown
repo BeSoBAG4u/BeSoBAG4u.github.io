@@ -1,4 +1,7 @@
-
+---
+layout: post
+title:  "<u>Sonjas Neuheiten</u>"
+date:   2015-04-22  16:00:11
 
 Neues aus robustem Korkstoff und elegantem braunen Kunstleder.
 
