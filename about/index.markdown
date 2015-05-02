@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About/Kontakt
 ---
 
 
@@ -9,7 +9,7 @@ title: About
 
 Wir, Sonja und Beat, haben unsere Leidenschaft fürs Nähen von Taschen entdeckt.
 
-Kontakt: Besobag4u@gmail.com
+##**Kontakt: Besobag4u@gmail.com**
 
 
 
