@@ -59,8 +59,6 @@ Zum Versorgen deiner Schlüssel, auch als Mini-Geldbörse nutzbar, aussen und in
 
 
 
-#<u>Sets</u>
-Es gibt die drei Taschen übrigens auch für dich im Set, wenn du alle im gleichen Design haben möchtest. 
 
 
 
@@ -70,7 +68,7 @@ Es gibt die drei Taschen übrigens auch für dich im Set, wenn du alle im gleich
 Wir machen dir hier nur Vorschläge, was du mit unseren tollen Taschen machen kannst, damit du dir ein Bild machen kannst. Deiner Phantasie sind natürlich keine Grenzen gesetzt. :-)
 
 
-Unsere Taschen kannst du alle kaufen, schreib uns einfach eine E-Mail an besobag4u@gmail.com, wenn du eine (oder auch mehrere ;-)) haben möchtest. 
+Unsere Taschen kannst du alle kaufen, schreib uns einfach eine E-Mail an <font size="4">besobag4u@gmail.com</font>, wenn du eine (oder auch mehrere ;-)) haben möchtest. 
 
 
 
