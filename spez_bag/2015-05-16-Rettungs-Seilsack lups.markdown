@@ -14,6 +14,4 @@ Viele Vorteile bringt der Seilsack mit:
   - Recyclingprodukt
   - wiederverwendbar
   - individualisierbar (Grösse und Beschriftung)
-<img src="/images/üt1.jpg" />
-<img src="/images/" />
 
