@@ -1,0 +1,1 @@
+---layout: posttitle:  "<u>Koffermarkt und Heimfest im Lindenhof</u>"date:   2015-10-28  16:00:11---Besucht uns am Koffermarkt im Lindenhof in Langenthal von 9 Uhr bis 17 Uhr<img src="/images/heimfest.png" />
