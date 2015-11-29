@@ -2,8 +2,11 @@
 layout: post
 title:  "Adventsmarkt der besondern Art"
 date:   2015-11-28 11:00:11
+
 ---
-"Adventsmarkt der besondern Art"
+
+Adventsmarkt der besondern Art
+
 Danke für Euren Besuch am Adventsmarkt der besonderen Art in St. Urban.
 Wir haben die tolle Stimmung sehr genossen im wunderschönen Klosterpark. 
 Vielen Dank für die super Organisation vom Wohnheim Sonnegarte.
