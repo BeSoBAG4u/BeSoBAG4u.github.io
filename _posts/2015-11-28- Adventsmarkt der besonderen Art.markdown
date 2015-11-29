@@ -1,1 +1,0 @@
- "Adventsmarkt der besondern Art"Danke für Euren Besuch am Adventsmarkt der besonderen Art in St. Urban.Wir haben die tolle Stimmung sehr genossen im wunderschönen Klosterpark. Vielen Dank für die super Organisation vom Wohnheim Sonnegarte.e schöni Adventszyt wünsche mir allne!<img src="/images/Advent1.jpg" /><img src="/images/Advent2.jpg" />    
