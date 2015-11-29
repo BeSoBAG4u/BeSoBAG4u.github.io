@@ -1,18 +1,1 @@
----
-layout: default
-title: About                
----
-
-#<u>Rettungs-Seilsack für die Betriebsfeuerwehr *lups*</u>
-Für die Betriebsfeuerwehr *lups* konnten wir praktische Meshblachentaschen herstellen. 
- 
-Viele Vorteile bringt der Seilsack mit:
-
-  - plombierbar ( bestätigt Einsatzbereitschaft des Seil)
-  - luftdurchlässiges Material
-  - rasch einsatzbereit
-  - Recyclingprodukt
-  - wiederverwendbar
-  - individualisierbar (Grösse und Beschriftung)
-
-
+---layout: defaulttitle: About                ---#<u>Rettungs-Seilsack für die Betriebsfeuerwehr *lups*</u>Für die Betriebsfeuerwehr *lups* konnten wir praktische Meshblachentaschen herstellen.  Viele Vorteile bringt der Seilsack mit:  - plombierbar ( bestätigt Einsatzbereitschaft des Seil)  - luftdurchlässiges Material  - rasch einsatzbereit  - Recyclingprodukt  - wiederverwendbar  - individualisierbar (Grösse und Beschriftung)<img src="/images/lups1.jpg" /><img src="/images/lups2.jpg" />
